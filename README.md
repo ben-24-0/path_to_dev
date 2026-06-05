@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ben-24-0/path_to_dev/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
+| [0263-ugly-number](https://github.com/ben-24-0/path_to_dev/tree/master/0263-ugly-number) |
 ## Array
 |  |
 | ------- |
