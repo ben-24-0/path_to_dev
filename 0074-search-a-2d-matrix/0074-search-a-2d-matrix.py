@@ -5,11 +5,9 @@ class Solution:
             nums+=matrix[i][:len(matrix[i])]
         low=0
         high=len(nums)-1
-        inx=0
         while low<=high:
             avg=(low+high)//2
             if target==nums[avg]:
-                inx=avg
                 return True
             elif nums[avg]<target:
                 low=avg+1
