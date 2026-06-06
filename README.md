@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ben-24-0/path_to_dev/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ben-24-0/path_to_dev/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ben-24-0/path_to_dev/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ben-24-0/path_to_dev/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ben-24-0/path_to_dev/tree/master/0643-maximum-average-subarray-i) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ben-24-0/path_to_dev/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ben-24-0/path_to_dev/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
