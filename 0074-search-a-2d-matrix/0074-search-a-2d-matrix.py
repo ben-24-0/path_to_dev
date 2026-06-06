@@ -1,8 +1,9 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         nums=[]
+        n=len(matrix[0])
         for i in range(len(matrix)):
-            nums+=matrix[i][:len(matrix[i])]
+            nums+=matrix[i][:n]
         low=0
         high=len(nums)-1
         while low<=high:
