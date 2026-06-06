@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ben-24-0/path_to_dev/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/ben-24-0/path_to_dev/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ben-24-0/path_to_dev/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ben-24-0/path_to_dev/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ben-24-0/path_to_dev/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -41,4 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ben-24-0/path_to_dev/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ben-24-0/path_to_dev/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ben-24-0/path_to_dev/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
