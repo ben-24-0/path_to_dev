@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/ben-24-0/path_to_dev/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ben-24-0/path_to_dev/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ben-24-0/path_to_dev/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ben-24-0/path_to_dev/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,10 +81,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ben-24-0/path_to_dev/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ben-24-0/path_to_dev/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/ben-24-0/path_to_dev/tree/master/0874-backspace-string-compare) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ben-24-0/path_to_dev/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/ben-24-0/path_to_dev/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/ben-24-0/path_to_dev/tree/master/0874-backspace-string-compare) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ben-24-0/path_to_dev/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/ben-24-0/path_to_dev/tree/master/2470-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ben-24-0/path_to_dev/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
