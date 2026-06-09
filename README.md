@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/ben-24-0/path_to_dev/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ben-24-0/path_to_dev/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/ben-24-0/path_to_dev/tree/master/0874-backspace-string-compare) |
+| [2470-removing-stars-from-a-string](https://github.com/ben-24-0/path_to_dev/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,8 +80,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ben-24-0/path_to_dev/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ben-24-0/path_to_dev/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/ben-24-0/path_to_dev/tree/master/0874-backspace-string-compare) |
+| [2470-removing-stars-from-a-string](https://github.com/ben-24-0/path_to_dev/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/ben-24-0/path_to_dev/tree/master/0874-backspace-string-compare) |
+| [2470-removing-stars-from-a-string](https://github.com/ben-24-0/path_to_dev/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
