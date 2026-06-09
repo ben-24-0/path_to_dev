@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ben-24-0/path_to_dev/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ben-24-0/path_to_dev/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ben-24-0/path_to_dev/tree/master/0088-merge-sorted-array) |
+| [0496-next-greater-element-i](https://github.com/ben-24-0/path_to_dev/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/ben-24-0/path_to_dev/tree/master/0643-maximum-average-subarray-i) |
 | [0907-koko-eating-bananas](https://github.com/ben-24-0/path_to_dev/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ben-24-0/path_to_dev/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ben-24-0/path_to_dev/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ben-24-0/path_to_dev/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/ben-24-0/path_to_dev/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ben-24-0/path_to_dev/tree/master/0071-simplify-path) |
+| [0496-next-greater-element-i](https://github.com/ben-24-0/path_to_dev/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/ben-24-0/path_to_dev/tree/master/0874-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ben-24-0/path_to_dev/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/ben-24-0/path_to_dev/tree/master/2470-removing-stars-from-a-string) |
@@ -93,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ben-24-0/path_to_dev/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ben-24-0/path_to_dev/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
