@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ben-24-0/path_to_dev/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ben-24-0/path_to_dev/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ben-24-0/path_to_dev/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ben-24-0/path_to_dev/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ben-24-0/path_to_dev/tree/master/0443-string-compression) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ben-24-0/path_to_dev/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ben-24-0/path_to_dev/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/ben-24-0/path_to_dev/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
