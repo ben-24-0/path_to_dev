@@ -27,12 +27,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ben-24-0/path_to_dev/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/ben-24-0/path_to_dev/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/ben-24-0/path_to_dev/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ben-24-0/path_to_dev/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ben-24-0/path_to_dev/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ben-24-0/path_to_dev/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/ben-24-0/path_to_dev/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ben-24-0/path_to_dev/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/ben-24-0/path_to_dev/tree/master/0874-backspace-string-compare) |
@@ -103,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ben-24-0/path_to_dev/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ben-24-0/path_to_dev/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ben-24-0/path_to_dev/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
