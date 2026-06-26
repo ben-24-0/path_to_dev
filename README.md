@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ben-24-0/path_to_dev/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ben-24-0/path_to_dev/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/ben-24-0/path_to_dev/tree/master/0496-next-greater-element-i) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ben-24-0/path_to_dev/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/ben-24-0/path_to_dev/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ben-24-0/path_to_dev/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/ben-24-0/path_to_dev/tree/master/0874-backspace-string-compare) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ben-24-0/path_to_dev/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/ben-24-0/path_to_dev/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
@@ -109,4 +111,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ben-24-0/path_to_dev/tree/master/0141-linked-list-cycle) |
+## Counting
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ben-24-0/path_to_dev/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
