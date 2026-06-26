@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/ben-24-0/path_to_dev/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ben-24-0/path_to_dev/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ben-24-0/path_to_dev/tree/master/0443-string-compression) |
+| [0812-rotate-string](https://github.com/ben-24-0/path_to_dev/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/ben-24-0/path_to_dev/tree/master/0874-backspace-string-compare) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ben-24-0/path_to_dev/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/ben-24-0/path_to_dev/tree/master/2470-removing-stars-from-a-string) |
@@ -115,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ben-24-0/path_to_dev/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ben-24-0/path_to_dev/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
