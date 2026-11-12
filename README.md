@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ben-24-0/path_to_dev/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ben-24-0/path_to_dev/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ben-24-0/path_to_dev/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ben-24-0/path_to_dev/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/ben-24-0/path_to_dev/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/ben-24-0/path_to_dev/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/ben-24-0/path_to_dev/tree/master/0739-daily-temperatures) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ben-24-0/path_to_dev/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ben-24-0/path_to_dev/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/ben-24-0/path_to_dev/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/ben-24-0/path_to_dev/tree/master/0496-next-greater-element-i) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ben-24-0/path_to_dev/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ben-24-0/path_to_dev/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ben-24-0/path_to_dev/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
